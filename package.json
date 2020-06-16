@@ -1,7 +1,7 @@
 {
-  "name": "ImageGridMotionEffect",
+  "name": "imagegridmotioneffect",
   "version": "1.0.0",
-  "description": "",
+  "description": "Testing motion background animations for F7F.io",
   "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html --open",
@@ -16,7 +16,7 @@
   "keywords": [],
   "author": "Codrops",
   "license": "MIT",
-  "homepage": "[HOMEPAGE]",
+  "homepage": "http://[HOMEPAGE]",
   "bugs": {
     "url": "https://github.com/codrops/ImageGridMotionEffect/issues"
   },
